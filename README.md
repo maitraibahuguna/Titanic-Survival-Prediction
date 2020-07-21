@@ -7,7 +7,7 @@ In this project, we analyze the Titanic dataset set obtained from kaggle and wil
 After analyzing the dataset, it has been noticed that the passengers who purchased tickets of class A and with maximum fares survived the most. We have done visualization of each and every parameter to check the survival rate.<br>
 
 # Data Description
-Data Source: https://www.kaggle.com/c/titanic
+Data Source: https://www.kaggle.com/c/titanic<br>
 The dataset collected from Kaggle  is the subset of original dataset consisting of has information about the passengers and crew which are P-class, name, age, sex, etc., and can be used to predict if the person onboard has survived or not.<br>
 The data has been split into two sets : training dataset(80%) and test dataset(20%).The training set is used to build our
 machine learning models. The training set includes our target variable, passenger survival status along with other independent features like gender, class, fare, and Pclass. The test set should be used to see how well our model performs on unseen data. The test set does not provide passengers survival status. We are going to use our model to predict passenger survival status. The test set should be used to see how well your
